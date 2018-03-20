@@ -2,3 +2,4 @@
 
 [repositories.Switch-Custom-Device]
 build_number = 0
+release_branches = ["master"]
