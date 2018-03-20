@@ -1,5 +1,5 @@
 [repositories.commonbuild-configuration]
 
 [repositories.Switch-Custom-Device]
-build_number = 0
-release_branches = ["master"]
+release_branches = [ "master",]
+build_number = 1
