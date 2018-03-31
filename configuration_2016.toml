@@ -1,6 +1,6 @@
 [repositories.BCI-SLSC-LOAD]
 release_branches = [ "master",]
-build_number = 2
+build_number = 3
 
 [repositories.BCI-SLSC-VDT]
 release_branches = [ "master",]
