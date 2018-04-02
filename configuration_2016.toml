@@ -14,4 +14,4 @@ build_number = 0
 
 [repositories.Switch-Custom-Device]
 release_branches = [ "master",]
-build_number = 6
+build_number = 7
