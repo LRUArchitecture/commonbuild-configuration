@@ -8,7 +8,7 @@ build_number = 3
 
 [repositories.group-switching-custom-device]
 release_branches = [ "master",]
-build_number = 3
+build_number = 4
 
 [repositories.commonbuild-configuration]
 
