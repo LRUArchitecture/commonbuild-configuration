@@ -1,11 +1,11 @@
 [repositories.BCI-SLSC-LOAD]
-build_number = 8
+build_number = 9
 
 [repositories.BCI-SLSC-VDT]
 build_number = 7
 
 [repositories.group-switching-custom-device]
-build_number = 9
+build_number = 10
 
 [repositories.commonbuild-configuration]
 
