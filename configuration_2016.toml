@@ -4,7 +4,7 @@ build_number = 9
 
 [repositories.BCI-SLSC-VDT]
 release_branches = [ "master",]
-build_number = 5
+build_number = 6
 
 [repositories.group-switching-custom-device]
 release_branches = [ "master",]
