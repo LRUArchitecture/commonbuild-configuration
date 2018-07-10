@@ -1,17 +1,13 @@
 [repositories.BCI-SLSC-LOAD]
-release_branches = [ "master",]
 build_number = 9
 
 [repositories.BCI-SLSC-VDT]
-release_branches = [ "master",]
 build_number = 7
 
 [repositories.group-switching-custom-device]
-release_branches = [ "master",]
 build_number = 6
 
 [repositories.commonbuild-configuration]
 
 [repositories.Switch-Custom-Device]
-release_branches = [ "master",]
 build_number = 14
