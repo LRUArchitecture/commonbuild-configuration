@@ -2,7 +2,7 @@
 build_number = 2
 
 [repositories.group-switching-custom-device]
-build_number = 0
+build_number = 1
 
 [repositories.Switch-Custom-Device]
 build_number = 0
