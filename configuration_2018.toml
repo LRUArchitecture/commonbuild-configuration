@@ -1,4 +1,8 @@
 [repositories.BCI-SLSC-VDT]
 build_number = 2
+
+[repositories.group-switching-custom-device]
+build_number = 0
+
 [repositories.Switch-Custom-Device]
 build_number = 0
