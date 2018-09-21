@@ -2,7 +2,7 @@
 build_number = 2
 
 [repositories.BCI-SLSC-VDT]
-build_number = 3
+build_number = 4
 
 [repositories.group-switching-custom-device]
 build_number = 2
