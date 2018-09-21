@@ -8,4 +8,4 @@ build_number = 3
 build_number = 2
 
 [repositories.Switch-Custom-Device]
-build_number = 0
+build_number = 1
