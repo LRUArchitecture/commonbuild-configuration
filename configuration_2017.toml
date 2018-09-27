@@ -5,7 +5,7 @@ build_number = 17
 build_number = 14
 
 [repositories.BCI-LOAD-TEMP]
-build_number = 0
+build_number = 1
 
 [repositories.group-switching-custom-device]
 build_number = 16
