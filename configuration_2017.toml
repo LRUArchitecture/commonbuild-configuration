@@ -10,4 +10,4 @@ build_number = 16
 [repositories.commonbuild-configuration]
 
 [repositories.Switch-Custom-Device]
-build_number = 20
+build_number = 21
