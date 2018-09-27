@@ -4,6 +4,9 @@ build_number = 3
 [repositories.BCI-SLSC-VDT]
 build_number = 4
 
+[repositories.BCI-LOAD-TEMP]
+build_number = 0
+
 [repositories.group-switching-custom-device]
 build_number = 2
 
