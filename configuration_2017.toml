@@ -8,7 +8,7 @@ build_number = 15
 build_number = 2
 
 [repositories.group-switching-custom-device]
-build_number = 17
+build_number = 18
 
 [repositories.commonbuild-configuration]
 
