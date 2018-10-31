@@ -2,7 +2,7 @@
 build_number = 20
 
 [repositories.BCI-SLSC-VDT]
-build_number = 16
+build_number = 17
 
 [repositories.BCI-LOAD-TEMP]
 build_number = 2
