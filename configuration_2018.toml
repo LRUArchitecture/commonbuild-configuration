@@ -11,4 +11,4 @@ build_number = 2
 build_number = 5
 
 [repositories.Switch-Custom-Device]
-build_number = 10
+build_number = 11
